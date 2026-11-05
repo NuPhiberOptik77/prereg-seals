@@ -5,6 +5,7 @@ Fingerprints of a pre-registration, published before any confirmatory data exist
 | What | SHA-256 |
 |---|---|
 | Pre-registration (`docs/prereg.md`) | `56f1868cebf1bb08ef21e8a0d6b22732bd836543918973362ea88c3a2ca6f71a` |
+| Pre-registration after amendment A1, a corrected file name, made at 2026-11-05T10:24:34Z before any run | `247e4d36a30aeded93af6845102405589e1f344b011fcd11bdf5986e491490e5` |
 | Verdict rules (`docs/verdict-rules.md`) | `64d0dacc1281dc17f66b32f9b3b96854d43187d87ec29bf5979f8e1aa1df343e` |
 | Code tree (every `.py` and `.c` file in `src/xdt`, `native`, `experiments`, `tests`) | `484849f98d86d2565e81c19f33734b0ceae561149456d4ea3604456c613c72ab` |
 
